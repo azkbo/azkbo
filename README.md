@@ -1,6 +1,7 @@
 <div align="center">
+  
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=630&lines=console.log(%22Hello%2C%20World%22);System.out.println(%22Hello%2C%20World%22);欢迎来到这里!&center=true&size=28" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=630&lines=欢迎来到这里!;console.log(%22Hello%2C%20World%22);System.out.println(%22Hello%2C%20World%22)&center=true&size=28" alt="Typing SVG" />
   </div>
 
   <!-- profile logo 个人资料徽标 -->
@@ -8,7 +9,7 @@
     <!-- a href-"https://twitter.com/azkbo/" img src-"https://img.shields.io/badge/Twitter-推特-blue" /a -->
     <!-- visitor statistics logo 访问量统计徽标 -->
   </div>
-
+  <h1> </h1>
 </div>
 
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
@@ -65,6 +66,7 @@ mindmap
 
 <table>
 
+<tr><td>
 <!-- About me (关于我) -->
 ### 🤺 About Me
 
@@ -72,5 +74,5 @@ mindmap
 <p>&emsp;&emsp;爱好: 编程、音乐、摄影、美食、读书、旅行。</p>
 <p>&emsp;&emsp;愿望: 世界和平？想啥呢赶紧写代码！</p>
 
-
+</td></tr>
 </table>
