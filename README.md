@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);System.out.println(%22Hello%2C%20World%22);欢迎来到这里!&center=true&size=28" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=630&lines=console.log(%22Hello%2C%20World%22);System.out.println(%22Hello%2C%20World%22);欢迎来到这里!&center=true&size=28" alt="Typing SVG" />
   </div>
 
   <!-- profile logo 个人资料徽标 -->
