@@ -24,53 +24,19 @@
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/azkbo/azkbo/assets/images/hr.gif" />
 
 <div align="center" >
 
-```mermaid
-mindmap
-  root((小孙同学))
-    编程
-      Android开发
-      ReactNative
-      JavaWeb
-      Node后端
-      React
-      小程序
-    摄影
-      风光
-      人物
-      美食
-      街拍
-    旅行
-      上海
-      苏州
-      南京
-      兰州
-      新乡
-      郑州
-      开封
-      杭州
-      宁波
-    阅读
-      中外名著
-      社会学
-      心理学
-      历史传记
-      计算机技术
-```
-
-<table>
+<table align="left" >
 
 <tr><td>
 <!-- About me (关于我) -->
 ### 🤺 About Me
 
 <p>&emsp;&emsp;一个正在搬砖的程序！</p>
-<p>&emsp;&emsp;爱好: 编程、音乐、摄影、美食、读书、旅行。</p>
+<p>&emsp;&emsp;爱好: 编程、音乐、摄影、美食、读书、旅行、运动。</p>
 <p>&emsp;&emsp;愿望: 世界和平？想啥呢赶紧写代码！</p>
 <p align="right"></p>
 </td></tr>
