@@ -20,8 +20,8 @@
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![Nodejs Badge](https://img.shields.io/badge/Java.js-393?logo=java&logoColor=fff&style=flat)
+![Java Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 
 <!-- ########################################## 分割 ########################################## -->
@@ -33,7 +33,7 @@
 
 <tr><td>
 <!-- About me (关于我) -->
-### 🤺 About Me
+### 🤺 
 
 <p>&emsp;&emsp;一个正在搬砖的程序！</p>
 <p>&emsp;&emsp;爱好: 编程、音乐、摄影、美食、读书、旅行、运动。</p>
