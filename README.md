@@ -12,6 +12,8 @@
   <h1> </h1>
 </div>
 
+
+![Java Badge](https://img.shields.io/badge/Java-E34F26?logo=java&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![ReactNative Badge](https://img.shields.io/badge/ReactNative-00599C?logo=react&logoColor=fff&style=flat)
@@ -20,8 +22,8 @@
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Nodejs Badge](https://img.shields.io/badge/Java.js-393?logo=java&logoColor=fff&style=flat)
-![Java Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![Nodejs Badge](https://img.shields.io/badge/Nodejs-393?logo=nodejs&logoColor=fff&style=flat)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 
 <!-- ########################################## 分割 ########################################## -->
